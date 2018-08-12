@@ -1,0 +1,2 @@
+model_checkpoint_path: "new.ckpt-300"
+all_model_checkpoint_paths: "new.ckpt-300"
